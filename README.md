@@ -4,8 +4,6 @@
 </div>
 
 <select name="Add-Substract" id="Add-Subtract">
-    <option value="rigatoni">Rigatoni</option>
-    <option value="dave">Dave</option>
-    <option value="pumpernickel">Pumpernickel</option>
-    <option value="reeses">Reeses</option>
+    <option value="Add">Add</option>
+    <option value="Subtract">Subtract</option>
 </select>
